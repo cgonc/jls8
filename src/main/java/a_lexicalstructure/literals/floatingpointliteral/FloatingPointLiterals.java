@@ -1,4 +1,4 @@
-package lexical.structure.literals.floatingpointliteral;
+package a_lexicalstructure.literals.floatingpointliteral;
 
 public class FloatingPointLiterals {
 

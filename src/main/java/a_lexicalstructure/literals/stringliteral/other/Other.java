@@ -1,4 +1,4 @@
-package lexical.structure.literals.stringliteral.other;
+package a_lexicalstructure.literals.stringliteral.other;
 
 public class Other {
 

@@ -1,4 +1,4 @@
-package lexical.structure.literals.stringliteral;
+package a_lexicalstructure.literals.stringliteral;
 
 public class StringLiterals {
 
@@ -6,7 +6,7 @@ public class StringLiterals {
 		String hello = "Hello", lo = "lo";
 		System.out.print((hello == "Hello") + " "); //true
 		System.out.print((Other.hello == hello) + " "); //true
-		System.out.print((lexical.structure.literals.stringliteral.other.Other.hello == hello) + " "); //true
+		System.out.print((a_lexicalstructure.literals.stringliteral.other.Other.hello == hello) + " "); //true
 		System.out.print((hello == ("Hel" + "lo")) + " "); //true
 		System.out.print((hello == ("Hel" + lo)) + " "); //false
 		System.out.print((hello.equals("Hel" + lo)) + " "); //true

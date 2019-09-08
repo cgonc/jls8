@@ -1,4 +1,4 @@
-package lexical.structure.literals.integerliteral;
+package a_lexicalstructure.literals.integerliteral;
 
 public class IntegerLiterals {
 

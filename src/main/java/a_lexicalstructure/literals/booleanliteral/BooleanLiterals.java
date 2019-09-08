@@ -1,4 +1,4 @@
-package lexical.structure.literals.booleanliteral;
+package a_lexicalstructure.literals.booleanliteral;
 
 public class BooleanLiterals {
 

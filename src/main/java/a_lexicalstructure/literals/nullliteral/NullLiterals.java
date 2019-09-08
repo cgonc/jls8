@@ -1,4 +1,4 @@
-package lexical.structure.literals.nullliteral;
+package a_lexicalstructure.literals.nullliteral;
 
 public class NullLiterals {
 

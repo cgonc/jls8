@@ -1,4 +1,4 @@
-package lexical.structure;
+package a_lexicalstructure;
 
 public class Identifiers {
 

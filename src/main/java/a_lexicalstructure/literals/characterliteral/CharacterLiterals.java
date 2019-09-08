@@ -1,4 +1,4 @@
-package lexical.structure.literals.characterliteral;
+package a_lexicalstructure.literals.characterliteral;
 
 public class CharacterLiterals {
 
