@@ -1,4 +1,4 @@
-package b_typesvaluesandvariables.reference_types_and_values;
+package b_types_values_and_variables.reference_types_and_values;
 
 public class NullReferences {
 

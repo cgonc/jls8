@@ -1,4 +1,4 @@
-package b_typesvaluesandvariables.floating_point_operations;
+package b_types_values_and_variables.floating_point_operations;
 
 public class FPOperations {
 
